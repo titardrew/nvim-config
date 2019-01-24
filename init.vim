@@ -82,6 +82,7 @@ endif
 " General settings
 syntax on
 colorscheme OceanicNext
+set exrc  " Load local project configs. 
 set encoding=UTF-8
 set number
 set relativenumber
